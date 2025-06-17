@@ -1,0 +1,28 @@
+# Unigine cache and temporary files
+.cache/
+log/
+tmp/
+out/
+
+# IDE settings
+.vs/
+.idea/
+
+# Build directories (if not needed in repo)
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.user
+*.suo
+
+# Backup files
+*~
+*.bak
+
+# Compiled python files
+*.pyc
+__pycache__/
